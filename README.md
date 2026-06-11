@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mohammad Hadi 👋
 
-<!--
-**mohammadhadimohammadi2007-dot/mohammadhadimohammadi2007-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Minecraft Plugin Developer  
+💻 Java | C++ | Data Packs  
+📍 Based in Iran  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java (Spigot / Paper plugins)
+- Minecraft Data Packs
+- Basic C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects:
+
+## 📫 Contact
+- Email: mohammadhadimohammadi2007@gmail.com
